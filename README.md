@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.analystsoft.com/en/products/statplusmac/img/statplus-mac-screen1.png" alt="StatPlus — macOS statistical analysis screenshot" width="780"/>
+  <img src="https://www.analystsoft.com/img/en-mst.screen1.png" alt="StatPlus — macOS statistical analysis screenshot" width="780"/>
 </p>
 
 ---
