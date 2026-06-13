@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://gnida-programs.github.io/.github/statplus">
-    <img src="https://www.analystsoft.com/img/en-mst.screen1.png" alt="Install" width="160"/>
+    <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
 
